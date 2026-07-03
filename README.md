@@ -44,9 +44,6 @@ Hill-Climb/
 ├── README.md
 └── .gitignore
 ```
-
-> If your filenames are slightly different, keep the same structure idea and adjust them accordingly.
-
 ---
 
 ## 🎮 Gameplay Overview
